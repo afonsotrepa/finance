@@ -1,14 +1,17 @@
 # Equity report on Wetouch Technology (WETH)
-Wetouch Technology is trading at 20% of book value (vast majority of which is cash right now) and a PE of 4x.
+Wetouch Technology is NASDASQ listed company[^1] trading at 20% of book value (vast majority of which is cash right now) and a PE of 4x.
+
 
 Is this deep fucking value or a value trap?
+
+[^1]:https://www.sec.gov/edgar/browse/?CIK=1826660
 
 ## Introduction
 Wetouch  Technology Inc. ("Wetouch") is a NASDAQ listed (ticker WETH) involved in the development, manufacturing, sales and servicing of medium to large projected capacitive touchscreens.
 The company is fully located in Chengdu, China with foreign holding companies to facilitate listing in a US stock exchange. Domestic sales make up about 69% of revenue.
 
 ## Corporate Structure
-Due to recent liberalisation in the foreign ownership of companies incorporated in the People's Republic of China ("PRC"), Wetouch does not feature the troubled variable interest entity ("VIE") which was common in the past.
+Due to recent liberalisation in the foreign ownership of companies incorporated in the People's Republic of China ("PRC")[^2], Wetouch __does not__ feature the troubled variable interest entity ("VIE") which was common in the past.
 Instead, the PRC company (Sichaun Vtouch Technologies) is fully owned by the Hong Kong subsidiary.
 
 ![Corporate structure](corporate-structure.png)
@@ -20,6 +23,7 @@ Ms. Jiyaing Cai also owns 68% of Chengdu Frejoo Enterprise Management Co., Ltd.
 Ms. Jiyaing Cai has in previous occasion used Chengdu Wetouch to finance the activities of Wetouch, leading to share financial liabilities.
 
 
+[^2]:https://english.beijing.gov.cn/investinginbeijing/WhyBeijing/Environment/bus_env_policy/bizenv_starting/202410/t20241009_3914897.html
 
 ## Balance sheet
 | Quarter                           | 3Q2024 (unaudited)  | 2Q2024 (unaudited)  |
