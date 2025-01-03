@@ -1,5 +1,5 @@
 # Equity report on Wetouch Technology (WETH)
-Wetouch Technology is NASDASQ listed company[^1] trading at 20% of book value (vast majority of which is cash right now) and a PE of 4x.
+Wetouch Technology is NASDASQ listed (ticker WETH) company[^1] trading at 20% of cash, PE of 4 and $-85M enterprise value.
 
 
 Is this deep fucking value or a value trap?
@@ -7,26 +7,33 @@ Is this deep fucking value or a value trap?
 [^1]:https://www.sec.gov/edgar/browse/?CIK=1826660
 
 ## Introduction
-Wetouch  Technology Inc. ("Wetouch") is a NASDAQ listed (ticker WETH) involved in the development, manufacturing, sales and servicing of medium to large projected capacitive touchscreens.
+Wetouch  Technology Inc. ("Wetouch") is involved in the development, manufacturing, sales and servicing of medium to large projected capacitive touchscreens.
 The company is fully located in Chengdu, China with foreign holding companies to facilitate listing in a US stock exchange. Domestic sales make up about 69% of revenue.
 
 ## Corporate Structure
-Due to recent liberalisation in the foreign ownership of companies incorporated in the People's Republic of China ("PRC")[^2], Wetouch __does not__ feature the troubled variable interest entity ("VIE") which was common in the past.
-Instead, the PRC company (Sichaun Vtouch Technologies) is fully owned by the Hong Kong subsidiary.
+Due to recent liberalisation[^2] in the foreign ownership of companies incorporated in the People's Republic of China ("PRC"), Wetouch __does not__ feature the troubled variable interest entity ("VIE") which was common in the past for foreign listed PRC companies.
 
-![Corporate structure](corporate-structure.png)
+Instead, the PRC company is fully owned by the Nevada company through two other shell companies:[^3]
+* Wetouch Technology Inc. (Nevada incorporated, NASDASQ listed)
+    * Wetouch Holding Group Limited (British Virgin Islands incorporated, fully owned subsidiary)
+        * Hong Kong Wetouch Technology Limited (Hong Kong incorporated, fully owned subsidiary)
+            * Sichuan Vtouch Technology Co., Ltd. (PRC incorporated, fully owned subsidiary)
 
-Chengdu Wetouch Intelligent Optoelectronics Co., Ltd. ("Chengdu Wetouch")is a separate supplier which is fully owned by Ms. Jiyaing Cai, director of Wetouch.
+![Corporate structure](corporate-structure.png)[^3]
 
-Ms. Jiyaing Cai also owns 68% of Chengdu Frejoo Enterprise Management Co., Ltd.
+### Related parties
+Chengdu Wetouch Intelligent Optoelectronics Co., Ltd. ("Chengdu Wetouch") is a separate supplier which is fully owned by Ms. Jiyaing Cai, director of Wetouch.[^3] [^4]
 
-Ms. Jiyaing Cai has in previous occasion used Chengdu Wetouch to finance the activities of Wetouch, leading to share financial liabilities.
+Ms. Jiyaing Cai also owns 68% of Chengdu Frejoo Enterprise Management Co., Ltd.[^3] [^4]
+
+Ms. Jiyaing Cai has in previous occasion used Chengdu Wetouch to finance the activities of Wetouch, leading to shared financial liabilities.[^3] [^4]
 
 
 [^2]:https://english.beijing.gov.cn/investinginbeijing/WhyBeijing/Environment/bus_env_policy/bizenv_starting/202410/t20241009_3914897.html
+[^3]:https://www.sec.gov/ix?doc=/Archives/edgar/data/0001826660/000149315224014934/form10-k.htm
 
 ## Balance sheet
-| Quarter                           | 3Q2024 (unaudited)  | 2Q2024 (unaudited)  |
+| Quarter                           | 3Q2024 (unaudited)[^4]  | 2Q2024 (unaudited)[^5]  |
 |:----------------------------------|:-------------------:|:-------------------:|
 | Cash and short term investments   | $106.7M             | $98.4M              |
 | Total Receivables                 | $9.8M               | $10.8M              |
@@ -45,8 +52,11 @@ $9.2 million raised from public offering in February 20th, 2024 at $5 per share.
 
 Up to $15 million worth of stock buyback has been approved for between $1 and $4 a share up until July 2025.
 
+[^4]:https://www.sec.gov/ix?doc=/Archives/edgar/data/0001826660/000121390024098428/ea0221068-10q_wetouch.htm
+[^5]:https://www.sec.gov/ix?doc=/Archives/edgar/data/0001826660/000121390024070737/ea0211701-10q_wetouch.htm
+
 ## Income statement
-| Quarter                           | 3Q2024 (unaudited)  | 2Q2024 (unaudited)  |
+| Quarter                           | 3Q2024 (unaudited)[^4]  | 2Q2024 (unaudited)[^5]  |
 |:----------------------------------|:-------------------:|:-------------------:|
 | Total Revenues                    | $11.5M              | $12.2M              |
 | Cost of Revenues                  | $7.1M               | $7.4M               |
@@ -87,6 +97,15 @@ Six customers made up more than 10% of revenue in 2023:
 5. Suzhou Weinview Co., Ltd -- 11.3%
 
 Total of top 5 customers: 80.1%
+
+## Intellectual property
+The company has applied for several patents in China which we were able to confirm.[^6] [^7]
+
+We were unable to confirm its claimed trademark in PRC.
+
+[^6]:https://patentscope.wipo.int/search/en/detail.jsf?docId=CN338538735&_cid=P22-M594GD-96090-1
+
+[^7]:https://patentscope.wipo.int/search/en/detail.jsf?docId=CN396416361&_cid=P22-M594IA-96454-1
 
 
 ## Locations
